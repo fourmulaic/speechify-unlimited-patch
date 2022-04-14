@@ -28,7 +28,7 @@ This is one of my projects which I did only for fun.
         if it is successfully patched, it will be shown like this.
         ![successfully patched!](./assets/images/patch-success.jpg "successfully patched")
 
-  6. remove old extension from chrome://extensions/.
+  6. remove old extension from [chrome://extensions/](chrome://extensions/).
 
   7. Install the new patched version of Speechify extension using current folder.
   [How to install an extension for Chrome browser from the local file system](https://www.youtube.com/watch?v=dhaGRJvJAII)
