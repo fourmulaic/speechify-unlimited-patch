@@ -19,7 +19,8 @@ This is one of my projects which I did only for fun.
   
   4. copy speechify-unlimited-patch.exe file into that folder.
   (inside the folder, there is a file called **background.js**)
-  [speechify folder](./assets/images/speechify-folder.jpg "inside of speechify folder")
+
+        [speechify folder](./assets/images/speechify-folder.jpg "inside of speechify folder")
 
   5. Run the speechify-unlimited-patch.exe or you can use python file. 
   [How to Run Your Python Scripts](https://realpython.com/run-python-scripts/)
