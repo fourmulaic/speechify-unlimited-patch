@@ -11,19 +11,21 @@ This is one of my projects which I did only for fun.
 **Please use this for educational propose only.**
 
 # How to use
-  1. [Find Storage Location for Unpacked Extensions in Chrome Web Browser.](https://stackoverflow.com/a/14544700/15084645)
+  1. First install the chrome extension from chrome web store. [speechify.com](https://speechify.com/)
 
-  2. Copy that folder and paste it into your hard drive and open the folder.
+  2. [Find Storage Location for Unpacked Extensions in Chrome Web Browser.](https://stackoverflow.com/a/14544700/15084645)
+
+  3. Copy that folder and paste it into your hard drive and open the folder.
   
-  3. copy speechify-unlimited-patch.exe file into that folder.
+  4. copy speechify-unlimited-patch.exe file into that folder.
   (inside the folder, there is a file called background.js)
 
-  4. Run the speechify-unlimited-patch.exe or you can use python file. 
+  5. Run the speechify-unlimited-patch.exe or you can use python file. 
   [How to Run Your Python Scripts](https://realpython.com/run-python-scripts/)
 
-  5. remove old extension from chrome://extensions/.
+  6. remove old extension from chrome://extensions/.
 
-  6. Install the new Speechify extension.
+  7. Install the new Speechify extension.
   [How does one install an extension for Chrome browser from the local file system](https://www.youtube.com/watch?v=dhaGRJvJAII)
 
 
