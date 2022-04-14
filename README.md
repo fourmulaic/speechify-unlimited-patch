@@ -11,7 +11,7 @@ This is one of my projects which I did only for fun.
 **Please use this for educational propose only.**
 
 # How to use
-  1. First install the chrome extension from chrome web store. [speechify.com](https://speechify.com/)
+  1. First install the speechify chrome extension from chrome web store. [speechify.com](https://speechify.com/)
 
   2. [Find Storage Location for Unpacked Extensions in Chrome Web Browser.](https://stackoverflow.com/a/14544700/15084645)
 
