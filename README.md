@@ -2,7 +2,7 @@
 
 # What is Speechify
 
-Speechify is a mobile and desktop app that reads any text aloud using a computer generated text to speech voice.
+Speechify is a mobile and desktop app that reads any text aloud using a computer generated text to speech voice. The app is notable for producing near-human quality voices, and for using optical character recognition technology to turn physical books or any printed text into audio.
 
 **This patch only works for Speechify Chrome extension.**
 
