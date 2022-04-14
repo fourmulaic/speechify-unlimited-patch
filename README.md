@@ -31,7 +31,7 @@ This is one of my projects which I did only for fun.
   6. remove old extension from chrome://extensions/.
 
   7. Install the new patched version of Speechify extension using current folder.
-  [How does one install an extension for Chrome browser from the local file system](https://www.youtube.com/watch?v=dhaGRJvJAII)
+  [How to install an extension for Chrome browser from the local file system](https://www.youtube.com/watch?v=dhaGRJvJAII)
 
 
 
