@@ -23,6 +23,9 @@ This is one of my projects which I did only for fun.
   5. Run the speechify-unlimited-patch.exe or you can use python file. 
   [How to Run Your Python Scripts](https://realpython.com/run-python-scripts/)
 
+  if it is successfully patched, it will be shown like this.
+  ![successfully patched!](./assets/images/patch-success.jpg "successfully patched")
+
   6. remove old extension from chrome://extensions/.
 
   7. Install the new Speechify extension.
