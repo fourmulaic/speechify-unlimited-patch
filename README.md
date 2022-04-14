@@ -1,7 +1,7 @@
 # Speechify Unlimited Patch
 
 # Disclaimer
-This is one of my project which I did only for fun
+This is one of my project which I did only for fun.
 **Please use this for educational propose only.**
 
 # How to use
