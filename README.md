@@ -10,6 +10,12 @@ Speechify is a mobile and desktop app that reads any text aloud using a computer
 This is one of my projects which I did only for fun.
 **Please use this for educational propose only.**
 
+# Patch Features 😍
+
+  1. NO MORE DAILY WORD LIMITS 
+  2. UNLOCK ALL VOICES
+  3. GET ACCESS TO ALL PREMIUM FEATURES
+
 # How to use
   1. First install the speechify chrome extension from chrome web store. [speechify.com](https://speechify.com/)
 
